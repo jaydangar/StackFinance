@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653275174433",
+    "firebase_url": "https://stack-finance-2c442.firebaseio.com",
+    "project_id": "stack-finance-2c442",
+    "storage_bucket": "stack-finance-2c442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653275174433:android:ed0cd77915dd048d453560",
+        "android_client_info": {
+          "package_name": "com.example.StackFinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653275174433-bjc8fmbdb6pjgdv504n3armvle8qk3ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7C0oaaUxFeuZZ0xbp9tYZt512VgGALs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653275174433-bjc8fmbdb6pjgdv504n3armvle8qk3ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
